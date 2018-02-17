@@ -1,0 +1,4 @@
+name: EmplMgmtApp
+path: target/empl-mgmt-system-0.0.1-SNAPSHOT.war
+buildpack: https://github.com/cloudfoundry/java-buildpack.git
+memory: 1G
